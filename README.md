@@ -1,8 +1,8 @@
 # Computer_Graphics
 
-##A4
+## A4
 
-###Optional features implemented:
+### Optional features implemented:
 
 1. Path Tracing (imperfect)
 2. Depth of Field
