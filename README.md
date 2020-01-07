@@ -9,5 +9,5 @@
 3. Mirror Reflection
 4. Cube Map
 5. Area Light (imperfect)
-6. Refrraction using Path Tracing (imperfect)
+6. Refraction using Path Tracing (imperfect)
 7. Glazed Glass
